@@ -25,6 +25,8 @@
                 :total="items.length">
             </el-pagination>
         </div>
+        <span style="color:white;">备案号 鄂ICP备2020021534号-1</span>
+        <a href="https://beian.miit.gov.cn/">工信部链接</a>
     </div>
 </template>
 <script>
